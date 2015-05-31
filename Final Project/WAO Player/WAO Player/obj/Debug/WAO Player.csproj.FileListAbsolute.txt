@@ -1,0 +1,77 @@
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\ApplicationIcon.png
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Assets\XN.mp3
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\WAO Player.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\WAO Player.pdb
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\HtmlAgilityPack.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\System.Xml.XPath.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\App.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\MainPage.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WindowChild\Music_Page.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WindowChild\Offline.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WindowChild\Online.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WAO Player.g.resources
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WAO_Player.Resources.AppResources.resources
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WAO Player.csproj.GenerateResource.Cache
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WAO Player.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WAO Player.pdb
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\AppManifest.xaml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\Properties\WMAppManifest.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\Bin\Debug\WAO_Player_Debug_AnyCPU.xap
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\XapCacheFile.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\Final Project\WAO Player\WAO Player\obj\Debug\WAO Player.csprojResolveAssemblyReference.cache

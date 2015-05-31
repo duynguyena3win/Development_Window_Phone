@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Music>
+  <TYPE name="V-POP" Image="/Assets/ImageGame/VPOP.jpg">
+    <TASK Ma="001">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="B" A="Nắng Ấm Xa Dần" B="Em Của Ngày Hôm Qua" C="Ngày Hôm Qua" D="Ngỡ Như Là" URL="http://m.nhaccuatui.com/bai-hat/em-cua-ngay-hom-qua-son-tung-m-tp.9Fd4zVvPMIbf.html"/>
+      <QUESTION Stt="02" Name="Which band do sing this song?" Answer="C" A="MU" B="365 Band" C="M4U" D="HKT" URL="http://m.nhaccuatui.com/bai-hat/bai-hat-cho-em-m4u.AuFmdmuCO9.html"/>
+      <QUESTION Stt="03" Name="What's the name of author who write this song?" Answer="A" A="Thanh Tùng" B="Lệ Quyên" C="Anh Quân" D="Huy Tuấn" URL="http://m.nhaccuatui.com/bai-hat/mot-minh-le-quyen.XzwFcRJMP8aa.html"/>
+      <QUESTION Stt="04" Name="What kind instruments in this song?" Answer="D" A="Guitar" B="Violin" C="Harmonica" D="Piano" URL="http://m.nhaccuatui.com/bai-hat/vet-mua-vu-cat-tuong.BcgogouMbcD6.html"/>
+      <QUESTION Stt="05" Name="What's the name of this song?" Answer="A" A="Bóng Mây Qua Thềm" B="Lối Đó Anh Qua" C="Cà phê đắng" D="Buổi sáng sớm" URL="http://m.nhaccuatui.com/bai-hat/bong-may-qua-them-va.VsW2GWGYx0.html"/>
+      <QUESTION Stt="06" Name="What's the name of author who write this song?" Answer="A" A="Trịnh Công Sơn" B="Minh Đức" C="Cao Long" D="Xuân Quỳnh" URL="http://m.nhaccuatui.com/bai-hat/cat-bui-khanh-ly.3gVSwB8HKC.html"/>
+      <QUESTION Stt="07" Name="What's the kind of this song?" Answer="C" A="ROCK" B="JAZZ" C="RAP" D="POP" URL="http://m.nhaccuatui.com/bai-hat/khu-tao-song-karik-ft-wowy.r3v6MaCW5Fbx.html"/>
+      <QUESTION Stt="08" Name="What's the name of this song?" Answer="D" A="Tình Cha" B="Một Mai" C="Đời Cha" D="Cha" URL="http://m.nhaccuatui.com/bai-hat/cha-mtv-ft-karik-ft-vo-trong-phuc-ft-duy-khiem-ngo.ddanLzddz3IM.html"/>
+      <QUESTION Stt="09" Name="What kind instruments in this song?" Answer="A" A="Violin" B="Piano" C="Guitar" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/yeu-lai-tu-dau-violin.CVzmBPXhLJCn.html"/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="B" A="Hòa Minzy" B="Hoàng Hải" C="Đăng Khoa" D="M-TP" URL="http://m.nhaccuatui.com/bai-hat/hoa-nang-hoang-hai.Ozf46UJ8G8NH.html"/>
+    </TASK>
+    <TASK Ma="002">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="B" A="Yêu Đời" B="Ngày Đẹp Tươi" C="Tự Tin" D="Tỏa Sáng" URL="http://m.nhaccuatui.com/bai-hat/ngay-dep-tuoi-hoang-hai.FcQ9UoulHd.html"/>
+      <QUESTION Stt="02" Name="Which band do sing this song?" Answer="A" A="365 Band" B="M4U" C="The Men" D="Phù Sa" URL="http://m.nhaccuatui.com/bai-hat/noi-anh-khong-thuoc-ve-365.em5rn67EcbZo.html"/>
+      <QUESTION Stt="03" Name="What's the name of author who write this song?" Answer="D" A="Trần Tiến" B="Bảo Thạch" C="Đức Huy" D="Huy Tuấn" URL="http://m.nhaccuatui.com/bai-hat/cam-on-tinh-yeu-uyen-linh.XErSSbMc2UpJ.html"/>
+      <QUESTION Stt="04" Name="What's the name of singer who sing this song?" Answer="B" A="Trung Quân" B="Ưng Hoàng Phúc" C="Duy Khoa" D="Hồ Quang Hiếu" URL="http://m.nhaccuatui.com/bai-hat/buong-tay-lang-im-ung-hoang-phuc.49eHCGsEH8y1.html"/>
+      <QUESTION Stt="05" Name="What's the name of singer who sing this song?" Answer="A" A="Hoàng Bách" B="Ông Cao Thắng" C="Đan Trường" D="Duy Khoa" URL="http://m.nhaccuatui.com/bai-hat/khi-co-don-anh-goi-ten-em-hoang-bach.MqZ2AxcRGtWz.html"/>
+      <QUESTION Stt="06" Name="What's the name of this song?" Answer="D" A="Đừng Quên Anh" B="Tại Sao" C="Em Hết Yêu" D="Đừng Cố Yêu" URL="http://m.nhaccuatui.com/bai-hat/dung-co-yeu-khac-viet.j8DZY3cITO40.html"/>
+      <QUESTION Stt="07" Name="Which band do sing this song?" Answer="B" A="Bức Tường" B="Ngũ Cung" C="Mặt Trời Đỏ" D="Ba Con Mèo" URL="http://m.nhaccuatui.com/bai-hat/tieng-ru-thoi-gian-ngu-cung.mdmMLSHFeD4U.html"/>
+      <QUESTION Stt="08" Name="What kind instruments in this song?" Answer="C" A="Violin" B="Piano" C="Guitar" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/du-co-cach-xa-thai-tuyet-tram.W6EWHU5FQIlW.html"/>
+      <QUESTION Stt="09" Name="What's the name of this song?" Answer="A" A="Anh" B="Nỗi nhớ" C="Cô đơn" D="Anh về đi" URL="http://m.nhaccuatui.com/bai-hat/anh-huong-tram.d6efD5HZBAiW.html"/>
+      <QUESTION Stt="10" Name="What's the name of this song?" Answer="B" A="Quên" B="Nhớ" C="Em Ơi" D="Anh Nhớ" URL="http://m.nhaccuatui.com/bai-hat/neu-noo-phuoc-thinh.D0srjeBH9Hv4.html"/>
+    </TASK>
+    
+  </TYPE>
+  <TYPE name="K-POP" Image="/Assets/ImageGame/KPOP.jpg">
+    <TASK Ma="001">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="C" A="I Miss You" B="Leave Me" C="My Love" D="Cry" URL="http://m.nhaccuatui.com/bai-hat/my-love-lee-seung-chul.ohjICBcvUJ1i.html"/>
+      <QUESTION Stt="02" Name="What's the name of singer who sing this song?" Answer="A" A="Lee Seung Chul" B="G-Dragon" C="Yoona" D="Jong Hyun" URL="http://m.nhaccuatui.com/bai-hat/are-you-listening-lee-seung-chul.G9-dYe_6NE.html"/>
+      <QUESTION Stt="03" Name="What kind instruments in this song?" Answer="B" A="Violin" B="Piano" C="Guitar" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/saldaga-sg-wannabe.R8jUNFFB-F.html"/>
+      <QUESTION Stt="04" Name="Which band do sing this song?" Answer="A" A="SNSD" B="TARA" C="KARA" D="SISTAR" URL="http://m.nhaccuatui.com/bai-hat/mrmr-snsd.vcBKDLLMTZDC.html"/>
+      <QUESTION Stt="05" Name="What's the name of singer who sing this song?" Answer="D" A="T.O.P" B="Daesung" C="Taeyang" D="G-Dragon" URL="http://m.nhaccuatui.com/bai-hat/crooked-g-dragon-bigbang.80ob0KWEdYmN.html"/>
+      <QUESTION Stt="06" Name="What's the name of this song?" Answer="C" A="Need You" B="Hello" C="So in love" D="My Heart" URL="http://m.nhaccuatui.com/bai-hat/so-in-love-kim-jung-woon.G6r7_WMRiS.html"/>
+      <QUESTION Stt="07" Name="Which band do sing this song?" Answer="B" A="Super Junior" B="Big Bang" C="JYJ" D="2PM" URL="http://m.nhaccuatui.com/bai-hat/tonight-bigbang.qjVkQByJD6.html"/>
+      <QUESTION Stt="08" Name="What kind instruments in this song?" Answer="A" A="Guitar" B="Cajón" C="Piano" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/gangnam-style-guitar-version-sungha-jung.dmYC3akj8Nyi.html"/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="B" A="Sunny" B="Esna " C="Soo Young" D="Yuri" URL="http://m.nhaccuatui.com/bai-hat/bite-my-lower-lip-the-heirs-ost-esna.DFiRCqawlFrY.html"/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="A" A="Kim Soo Hyun" B="Lee Seung Chul" C="Park Kim Jo" D="Taeyong" URL="http://m.nhaccuatui.com/bai-hat/in-front-of-your-house-you-who-came-from-the-stars-ost-kim-soo-hyun.1CM0Of4CM6IU.html"/>
+    </TASK>
+    <TASK Ma="002">
+      <QUESTION Stt="01" Name="Which band do sing this song?" Answer="D" A="Big Bang" B="2PM" C="JYJ" D="Super Junior" URL="http://m.nhaccuatui.com/bai-hat/spy-super-junior.mWVOg6nIwsSY.html"/>
+      <QUESTION Stt="02" Name="What's the name of author who write this song?" Answer="A" A="G-Dragon" B="Hee So Lee" C="PSY" D="Soo Young" URL="http://m.nhaccuatui.com/bai-hat/remember-bigbang.AbOyOJr9Kd.html"/>
+      <QUESTION Stt="03" Name="Which band do sing this song?" Answer="A" A="2NE1" B="T-ara" C="SNSD" D="Girls" URL="http://m.nhaccuatui.com/bai-hat/come-back-home-2ne1.Bo5TdtVznLQW.html"/>
+      <QUESTION Stt="04" Name="What's the name of this song?" Answer="D" A="Love" B="Wait You" C="Let Go" D="Cry Cry" URL="http://m.nhaccuatui.com/bai-hat/cry-cry-tara.rc62qNIVUw.html"/>
+      <QUESTION Stt="05" Name="What's the name of this song?" Answer="C" A="Waiting" B="Back Home" C="Love Hurts" D="Need You" URL="http://m.nhaccuatui.com/bai-hat/love-hurts-the-heirs-ost-lee-min-ho.VckqluFznWk7.html"/>
+      <QUESTION Stt="06" Name="Which band do sing this song?" Answer="A" A="B.A.P" B="SOS" C="Big Bang" D="Super Junior" URL="http://m.nhaccuatui.com/bai-hat/1004-angel-bap.kh4hvC49Ep4X.html"/>
+      <QUESTION Stt="07" Name="What's the name of this song?" Answer="D" A="Miss You" B="See You Again" C="Goodbye" D="So Goodbye" URL="http://m.nhaccuatui.com/bai-hat/so-goodbye-city-hunter-ost-jong-hyun-shinee.5l03dERakI.html"/>
+      <QUESTION Stt="08" Name="What's the name of singer who sing this song?" Answer="A" A="Jang Nara" B="Soo Young" C="Haha" D="Yoona" URL="http://m.nhaccuatui.com/bai-hat/breathe-in-love-jang-nara.bqz-7UT5MZ.html"/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="C" A="Park Kim Jo" B="G-Dragon" C="Bi Rain" D="Kim Soo Hyun" URL="http://m.nhaccuatui.com/bai-hat/why-ngoi-nha-hanh-phuc-ost-bi-rain.wakApod1rg.html"/>
+      <QUESTION Stt="10" Name="What's the name of this song?" Answer="B" A="Forever" B="Love" C="Always" D="House" URL="http://m.nhaccuatui.com/bai-hat/love-city-hunter-ost-part1-yim-jae-beum.LPLtgOTeH0.html"/>
+    </TASK>
+    
+  </TYPE>
+  <TYPE name="US-UK" Image="/Assets/ImageGame/US-UK.png">
+    <TASK Ma="001">
+      <QUESTION Stt="01" Name="Which band do sing this song?" Answer="A" A="Westlife" B="Backstreet Boys" C="Appa" D="The Men" URL="http://m.nhaccuatui.com/bai-hat/my-love-westlife.sxAVJh1OkaJb.html"/>
+      <QUESTION Stt="02" Name="What's the name of author who write this song?" Answer="D" A="David Robbert" B="John Lennon" C="Taylor Swift" D="Michael Jackson" URL="http://m.nhaccuatui.com/bai-hat/heal-the-world-michael-jackson.sgZpNCJ3Ou7d.html"/>
+      <QUESTION Stt="03" Name="Which band do sing this song?" Answer="B" A="Led Zeppelin" B="Maroon 5" C="The Black Eyed Peas" D="The Beatles" URL="http://m.nhaccuatui.com/bai-hat/one-more-night-maroon-5.uTZPjmc8NmKg.html"/>
+      <QUESTION Stt="04" Name="What's the name of this song?" Answer="B" A="Taylor Swift" B="Idina Menzel" C="Madonna" D="Adele" URL="http://m.nhaccuatui.com/bai-hat/let-it-go-idina-menzel.sjCbK6t6XUZ0.html"/>
+      <QUESTION Stt="05" Name="What's the name of author who write this song?" Answer="A" A=" James Horner" B="Céline Dion" C="John Lennon" D="David Robbert" URL="http://m.nhaccuatui.com/bai-hat/my-heart-will-go-on-celine-dion.eWfqukkZSD.html"/>
+      <QUESTION Stt="06" Name="Which band do sing this song?" Answer="C" A="Westlife" B="The Moon" C="Anthem Lights" D="The Beatles" URL="http://m.nhaccuatui.com/bai-hat/you-have-my-heart-anthem-lights.GU7vnn3n4zTk.html"/>
+      <QUESTION Stt="07" Name="What's the name of this song?" Answer="A" A="Breathless" B="Braethless" C="Brethless" D="Beathless" URL="http://m.nhaccuatui.com/bai-hat/breathless-shayne-ward.sb6svDlI26SE.html"/>
+      <QUESTION Stt="08" Name="What's the name of singer who sing this song?" Answer="B" A="Shayne Ward" B="Justin Bieber" C="John Lennon" D="Robert Plant" URL="http://m.nhaccuatui.com/bai-hat/heartbreaker-justin-bieber.krcJqreY4DTA.html"/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="D" A="Pink" B="Selena Gomez" C="Miley Cyrus" D="Taylor Swift" URL="http://m.nhaccuatui.com/bai-hat/you-belong-with-me-taylor-swift.3fD5qETZ6r.html"/>
+      <QUESTION Stt="10" Name="What's the name of this song?" Answer="D" A="Let Me Alone" B="Thank You" C="I'm Good" D="Well Well Well" URL="http://m.nhaccuatui.com/bai-hat/well-well-well-john-lennon.Nwv4qg3ZWH.html"/>
+    </TASK>
+    <TASK Ma="002">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="D" A="So Bad" B="Look" C="I Don't Want" D="I Have Nothing" URL="http://m.nhaccuatui.com/bai-hat/i-have-nothing-whitney-houston.0GahBoRannfP.html"/>
+      <QUESTION Stt="02" Name="What's the name of singer who sing this song?" Answer="B" A="Selena Gomez" B="Madonna" C="Whitney Houston" D="Miley Cyrus" URL="http://m.nhaccuatui.com/bai-hat/material-girl-madonna.mR2IH5BCUSYj.html"/>
+      <QUESTION Stt="03" Name="What kind instruments in this song?" Answer="C" A="Violin" B="Piano" C="Guitar" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/let-her-go-passenger.MU0SWI37z3wD.html"/>
+      <QUESTION Stt="04" Name="Which band do sing this song?" Answer="A" A="Backstreet Boys" B="Maroon 5" C="The Time" D="The Beatles" URL="http://m.nhaccuatui.com/bai-hat/its-christmas-time-again-backstreet-boys.msiExyv88ysG.html"/>
+      <QUESTION Stt="05" Name="What's the name of singer who sing this song?" Answer="B" A="Pink" B="Adele" C="Layne Staley" D="Katy Perry" URL="http://m.nhaccuatui.com/bai-hat/skyfall-adele.malEDMdZLCJ7.html"/>
+      <QUESTION Stt="06" Name="What's the name of this song?" Answer="C" A="Awake" B="Sleep" C="Wide Awake" D="Dream" URL="http://m.nhaccuatui.com/bai-hat/wide-awake-katy-perry.qZOdHi5pWf.html"/>
+      <QUESTION Stt="07" Name="Which band do sing this song?" Answer="D" A="Family" B="Led Zeppelin" C="Imagine Dragons" D="OneRepublic" URL="http://m.nhaccuatui.com/bai-hat/counting-stars-onerepublic.YbKoIdmnuSFy.html"/>
+      <QUESTION Stt="08" Name="Which band do sing this song?" Answer="B" A="The Home" B="The Beatles" C="Maroon 5" D="The Time" URL="http://m.nhaccuatui.com/bai-hat/come-together-the-beatles.EIjBNm24pd.html"/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="A" A="Vitas" B="Adam Lopez" C="Nicola Sedda" D="Robbert Leo" URL="http://m.nhaccuatui.com/bai-hat/the-star-vitas.hHSz3oa5wO.html"/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="D" A="Myles Kennedy" B="Chris Cornell" C="Katy Perry" D="Rihanna" URL="http://m.nhaccuatui.com/bai-hat/what-now-rihanna.OZqtlwEPEpB3.html"/>
+    </TASK>
+    <TASK Ma="003">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="B" A="Burn It Down" B="Numb" C="War" D="Castle Of Glass" URL="http://m.nhaccuatui.com/bai-hat/numb-linkin-park.-6V5l37pC-.html"/>
+      <QUESTION Stt="02" Name="Which band do sing this song?" Answer="C" A="'N SYNC" B="Jonas Brothers" C="One Direction" D="98 Degrees" URL="http://m.nhaccuatui.com/bai-hat/what-make-you-beautifull-one-direction.dZzDAzpCZbHe.html"/>
+      <QUESTION Stt="03" Name="What's the name of author who write this song?" Answer="C" A="Miley Cyrus" B="Selena Gomez" C="Taylor Swift" D="Nicola Sedda" URL="http://m.nhaccuatui.com/bai-hat/teardrops-on-my-guitar-taylor-swift.lIJfLuH1c1.html"/>
+      <QUESTION Stt="04" Name="What kind instruments in this song?" Answer="A" A="Guitar" B="Violin" C="Harmonica" D="Piano" URL="http://m.nhaccuatui.com/bai-hat/lemon-tree-guitar-solo-dang-cap-nhat.kNTOCLUChu.html"/>
+      <QUESTION Stt="05" Name="What's the name of this song?" Answer="B" A="Skyfall" B="Someone Like You" C="Set Fire To The Rain" D="Don't You Remember" URL="http://m.nhaccuatui.com/bai-hat/someone-like-you-adele.1XDvfykpj5rj.html"/>
+      <QUESTION Stt="06" Name="What's the name of author who write this song?" Answer="A" A="Bruno Mars" B="Myles Kennedy" C="Justin Bieber" D="David Robbert" URL="http://m.nhaccuatui.com/bai-hat/it-will-rain-bruno-mars.sl7VNhPXCs.html"/>
+      <QUESTION Stt="07" Name="What's the kind of this song?" Answer="B" A="ROCK" B="JAZZ" C="RAP" D="POP" URL="http://m.nhaccuatui.com/bai-hat/lush-life-john-coltrane-ft-johnny-hartman.OHbdKi3zIF.html"/>
+      <QUESTION Stt="08" Name="What's the name of this song?" Answer="D" A="Before The Storm" B="First Time" C="Sorry" D="Fly With Me" URL="http://m.nhaccuatui.com/bai-hat/fly-with-me-jonas-brothers.e4t2ynAhVFGQ.html"/>
+      <QUESTION Stt="09" Name="What kind instruments in this song?" Answer="B" A="Violin" B="Piano" C="Guitar" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/firework-piano-katy-perry.SpUJid2l1y.html"/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="A" A="Linkin Park" B="Frank Zappa" C="Prong" D="Bob Sinclar" URL="http://m.nhaccuatui.com/bai-hat/dk-new-device-linkin-park.iDrHHl0rbE.html"/>
+    </TASK>
+  <TASK Ma="004">
+      <QUESTION Stt="01" Name="Which band do sing this song?" Answer="A" A="The Drums" B="Sleigh Bells" C="Darwin Deez" D="The Light" URL="http://m.nhaccuatui.com/bai-hat/best-friend-the-drums.XcVWVU8jdD.html"/>
+      <QUESTION Stt="02" Name="What's the name of this song?" Answer="C" A="Counting Stars" B="All Of Me" C="Live It Up" D="We Can't Stop" URL="http://m.nhaccuatui.com/bai-hat/live-it-up-jason-chen.7B1a8sfR6JQF.html"/>
+      <QUESTION Stt="03" Name="What's the name of author who write this song?" Answer="C" A="Kian Egan" B="Selena Gomez" C="Katy Perry" D="Ylvis" URL="http://m.nhaccuatui.com/bai-hat/who-you-love-john-mayer-ft-katy-perry.fdy0He24Ccn6.html"/>
+      <QUESTION Stt="04" Name="What kind instruments in this song?" Answer="D" A="Guitar" B="Violin" C="Harmonica" D="Piano" URL="http://m.nhaccuatui.com/bai-hat/magic-piano-version-colbie-caillat.UHqjJKFwp4.html"/>
+      <QUESTION Stt="05" Name="Which band do sing this song?" Answer="A" A="SPEED" B="Jonas Brothers" C="98 Degrees" D="One Direction" URL="http://m.nhaccuatui.com/bai-hat/why-im-not-speed.Ck0QdgZQnGJq.html"/>
+      <QUESTION Stt="06" Name="What's the name of author who write this song?" Answer="B" A="Bruno Mars" B="Kian Egan" C="Jascha Richter" D="Elton John" URL="http://m.nhaccuatui.com/bai-hat/when-you-come-around-westlife.BV5iSTdcpJ.html"/>
+      <QUESTION Stt="07" Name="What's the name of this song?" Answer="B" A="Dream Away" B="Timber" C="Defined" D="Let It Go" URL="http://m.nhaccuatui.com/bai-hat/timber-acoustic-version-pitbull-ft-keha.A4Hc2ltZNmo8.html"/>
+      <QUESTION Stt="08" Name="What's the name of this song?" Answer="D" A="Diana" B="Hold Tight" C="Midnight Memories" D="Story Of My Life" URL="http://m.nhaccuatui.com/bai-hat/story-of-my-life-one-direction.7ZC60zZQZKtP.html"/>
+      <QUESTION Stt="09" Name="What's the kind of this song?" Answer="B" A="Dance" B="Pop" C="Jazz" D="Rock" URL="http://m.nhaccuatui.com/bai-hat/you-dont-care-about-me-shakira.zwbxdsm8iB2X.html"/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="A" A="Idina Menzel" B="Cody Simpson" C="Bastille" D="Taylor Henderson" URL="http://m.nhaccuatui.com/bai-hat/i-feel-everything-idina-menzel.TNjUiTVhA1wL.html"/>
+    </TASK>
+  </TYPE>
+</Music>

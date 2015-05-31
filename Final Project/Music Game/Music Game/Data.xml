@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Music>
+  <TYPE name="V-POP" Image="/Assets/ImageGame/VPOP.jpg">
+    <TASK Ma="001">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="B" A="Nắng Ấm Xa Dần" B="Em Của Ngày Hôm Qua" C="Ngày Hôm Qua" D="Ngỡ Như Là" URL="http://m.nhaccuatui.com/bai-hat/em-cua-ngay-hom-qua-son-tung-m-tp.9Fd4zVvPMIbf.html"/>
+      <QUESTION Stt="02" Name="What's the name of band who sing this song?" Answer="C" A="MU" B="365 Band" C="M4U" D="HKT" URL="http://m.nhaccuatui.com/bai-hat/bai-hat-cho-em-m4u.AuFmdmuCO9.html"/>
+      <QUESTION Stt="03" Name="What's the name of author who write this song?" Answer="A" A="Thanh Tùng" B="Lệ Quyên" C="Anh Quân" D="Huy Tuấn" URL="http://m.nhaccuatui.com/bai-hat/mot-minh-le-quyen.XzwFcRJMP8aa.html"/>
+      <QUESTION Stt="04" Name="What kind instruments in this song?" Answer="D" A="Guitar" B="Violin" C="Harmonica" D="Piano" URL="http://m.nhaccuatui.com/bai-hat/vet-mua-vu-cat-tuong.BcgogouMbcD6.html"/>
+      <QUESTION Stt="05" Name="What's the name of this song?" Answer="A" A="Bóng Mây Qua Thềm" B="Lối Đó Anh Qua" C="Cà phê đắng" D="Buổi sáng sớm" URL="http://m.nhaccuatui.com/bai-hat/bong-may-qua-them-va.VsW2GWGYx0.html"/>
+      <QUESTION Stt="06" Name="What's the name of author who write this song?" Answer="A" A="Trịnh Công Sơn" B="Minh Đức" C="Cao Long" D="Xuân Quỳnh" URL="http://m.nhaccuatui.com/bai-hat/cat-bui-khanh-ly.3gVSwB8HKC.html"/>
+      <QUESTION Stt="07" Name="What's the kind of this song?" Answer="C" A="ROCK" B="JAZZ" C="RAP" D="POP" URL="http://m.nhaccuatui.com/bai-hat/khu-tao-song-karik-ft-wowy.r3v6MaCW5Fbx.html"/>
+      <QUESTION Stt="08" Name="What's the name of this song?" Answer="D" A="Tình Cha" B="Một Mai" C="Đời Cha" D="Cha" URL="http://m.nhaccuatui.com/bai-hat/cha-mtv-ft-karik-ft-vo-trong-phuc-ft-duy-khiem-ngo.ddanLzddz3IM.html"/>
+      <QUESTION Stt="09" Name="What kind instruments in this song?" Answer="A" A="Violin" B="Piano" C="Guitar" D="Harmonica" URL="http://m.nhaccuatui.com/bai-hat/yeu-lai-tu-dau-violin.CVzmBPXhLJCn.html"/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="B" A="Hòa Minzy" B="Hoàng Hải" C="Đăng Khoa" D="M-TP" URL="http://m.nhaccuatui.com/bai-hat/hoa-nang-hoang-hai.Ozf46UJ8G8NH.html"/>
+    </TASK>
+    <TASK Ma="002">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="B" A="Yêu Đời" B="Ngày Đẹp Tươi" C="Tự Tin" D="Tỏa Sáng" URL="http://m.nhaccuatui.com/bai-hat/ngay-dep-tuoi-hoang-hai.FcQ9UoulHd.html"/>
+      <QUESTION Stt="02" Name="What's the name of band who sing this song?" Answer="A" A="365 Band" B="M4U" C="The Men" D="Phù Sa" URL="http://m.nhaccuatui.com/bai-hat/noi-anh-khong-thuoc-ve-365.em5rn67EcbZo.html"/>
+      <QUESTION Stt="03" Name="What's the name of author who write this song?" Answer="D" A="Trần Tiến" B="Bảo Thạch" C="Đức Huy" D="Huy Tuấn" URL="http://m.nhaccuatui.com/bai-hat/cam-on-tinh-yeu-uyen-linh.XErSSbMc2UpJ.html"/>
+      <QUESTION Stt="04" Name="What's the name of singer who sing this song?" Answer="B" A="Trung Quân" B="Ưng Hoàng Phúc" C="Duy Khoa" D="Hồ Quang Hiếu" URL="http://m.nhaccuatui.com/bai-hat/buong-tay-lang-im-ung-hoang-phuc.49eHCGsEH8y1.html"/>
+      <QUESTION Stt="05" Name="What's the name of singer who sing this song?" Answer="A" A="Hoàng Bách" B="Ông Cao Thắng" C="Đan Trường" D="Duy Khoa" URL="http://m.nhaccuatui.com/bai-hat/khi-co-don-anh-goi-ten-em-hoang-bach.MqZ2AxcRGtWz.html"/>
+      <QUESTION Stt="06" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="What's the name of this song?" Answer="A" A="Anh" B="Nỗi nhớ" C="Cô đơn" D="Anh về đi" URL="http://m.nhaccuatui.com/bai-hat/anh-huong-tram.d6efD5HZBAiW.html"/>
+      <QUESTION Stt="10" Name="What's the name of this song?" Answer="B" A="Quên" B="Nhớ" C="Em Ơi" D="Anh Nhớ" URL="http://m.nhaccuatui.com/bai-hat/neu-noo-phuoc-thinh.D0srjeBH9Hv4.html"/>
+    </TASK>
+    
+  </TYPE>
+  <TYPE name="K-POP" Image="/Assets/ImageGame/KPOP.jpg">
+    <TASK Ma="001">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="What kind instruments in this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="What kind instruments in this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="002">
+      <QUESTION Stt="01" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="What's the name of author who write this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="What's the name of author who write this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="003">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="004">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="005">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="006">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="007">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="008">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="009">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="010">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="011">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="012">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="013">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="014">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="015">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="016">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="017">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="018">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="019">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="020">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+  </TYPE>
+  <TYPE name="US-UK" Image="/Assets/ImageGame/US-UK.png">
+    <TASK Ma="001">
+      <QUESTION Stt="01" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="What's the name of author who write this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="What's the name of author who write this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="002">
+      <QUESTION Stt="01" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="What kind instruments in this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="What's the name of this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="What's the name of band who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="What's the name of singer who sing this song?" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="003">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="004">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="005">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="006">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="007">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="008">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="009">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="010">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="011">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="012">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="013">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="014">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="015">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="016">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="017">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="018">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="019">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+    <TASK Ma="020">
+      <QUESTION Stt="01" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="02" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="03" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="04" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="05" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="06" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="07" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="08" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="09" Name="" Answer="A" A="" B="" C="" D=""/>
+      <QUESTION Stt="10" Name="" Answer="A" A="" B="" C="" D=""/>
+    </TASK>
+  </TYPE>
+</Music>

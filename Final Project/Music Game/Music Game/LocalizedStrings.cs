@@ -1,0 +1,13 @@
+﻿using Music_Game.Resources;
+
+namespace Music_Game
+{
+    /// <summary>
+    /// Provides access to string resources.
+    /// </summary>
+    public class LocalizedStrings
+    {
+        private static AppResources _localizedResources = new AppResources();
+
+    }
+}

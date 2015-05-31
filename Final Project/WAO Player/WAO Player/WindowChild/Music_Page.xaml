@@ -1,0 +1,140 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="WAO_Player.WindowChild.Music_Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <phone:Panorama Title="music collection">
+            <phone:Panorama.Background>
+                <ImageBrush ImageSource="PanoramaBackground.png"/>
+            </phone:Panorama.Background>
+
+            <!--Panorama item one-->
+            <phone:PanoramaItem Header="song offline">
+                <ListBox x:Name="List_Song_Offline">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Height="100"  Margin="0,5,0,5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="100"/>
+                                    <ColumnDefinition Width="20*"/>
+                                </Grid.ColumnDefinitions>
+                                <Border BorderThickness="2" BorderBrush="Blue"/>
+                                <StackPanel Grid.Column="1">
+                                    <TextBlock Text="{Binding Name}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="35"/>
+                                    <TextBlock Text="{Binding Artist}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="20"/>
+                                </StackPanel>
+                                <Rectangle x:Name="Rec_Name"  Grid.Column="0">
+                                    <Rectangle.Fill>
+                                        <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,0.7">
+                                            <GradientStop Color="#FFEE4B27" Offset="0.871"/>
+                                            <GradientStop Color="#FF4556C7" Offset="0.111"/>
+                                        </LinearGradientBrush>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <StackPanel  Grid.Column="0">
+                                    <TextBlock Height="20"/>
+                                    <TextBlock Text="WAO" Foreground="Yellow" FontSize="23" Height="auto" Width="auto" />
+                                    <TextBlock Text="   SONG" Foreground="Yellow" FontSize="23" Height="auto" Width="auto" />
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </phone:PanoramaItem>
+
+            <!--Panorama item two-->
+            <!--Use 'Orientation="Horizontal"' to enable a panel that lays out horizontally-->
+            <phone:PanoramaItem Header="song online">
+                <ListBox x:Name="List_New_Song">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Height="100"  Margin="0,5,0,5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="100"/>
+                                    <ColumnDefinition Width="20*"/>
+                                </Grid.ColumnDefinitions>
+                                <Border BorderThickness="2" BorderBrush="Blue"/>
+                                <StackPanel Grid.Column="1">
+                                    <TextBlock Text="{Binding Name}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="35"/>
+                                    <TextBlock Text="{Binding Artist}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="20"/>
+                                </StackPanel>
+                                <Rectangle x:Name="Rec_Name"  Grid.Column="0">
+                                    <Rectangle.Fill>
+                                        <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,0.7">
+                                            <GradientStop Color="#FFEE4B27" Offset="0.871"/>
+                                            <GradientStop Color="#FF4556C7" Offset="0.111"/>
+                                        </LinearGradientBrush>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <StackPanel  Grid.Column="0">
+                                    <TextBlock Height="20"/>
+                                    <TextBlock Text="WAO" Foreground="Yellow" FontSize="23" Height="auto" Width="auto" />
+                                    <TextBlock Text="   SONG" Foreground="Yellow" FontSize="23" Height="auto" Width="auto" />
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </phone:PanoramaItem>
+            <phone:PanoramaItem Header="search song">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.85*"/>
+                        <ColumnDefinition Width="0.15*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="0.85*"/>
+                    </Grid.RowDefinitions>
+                    <TextBox x:Name="Text_Search" Height="75" FontSize="25" VerticalAlignment="Top" TextChanged="Text_Search_TextChanged" />
+                    <Button x:Name="Button_Search" Margin="349,-1,-9,375" FontSize="35" Grid.Row="0" Content="L"
+                            IsEnabled="False" FontFamily="Webdings" Grid.RowSpan="2" Grid.ColumnSpan="2" Click="Button_Search_Click"/>
+                    
+                    <ListBox x:Name="List_Search_Song" Grid.Row="1" Grid.ColumnSpan="2" MouseLeftButtonUp="List_Search_Song_MouseLeftButtonUp" Tap="List_Search_Song_Tap">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Height="100"  Margin="0,5,0,5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="100"/>
+                                        <ColumnDefinition Width="20*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Border BorderThickness="2" BorderBrush="Blue"/>
+                                    <StackPanel Grid.Column="1">
+                                        <TextBlock Text="{Binding Name}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="35"/>
+                                        <TextBlock Text="{Binding Artist}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" FontSize="20"/>
+                                    </StackPanel>
+                                    <Rectangle x:Name="Rec_Name"  Grid.Column="0">
+                                        <Rectangle.Fill>
+                                            <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,0.7">
+                                                <GradientStop Color="#FFEE4B27" Offset="0.871"/>
+                                                <GradientStop Color="#FF4556C7" Offset="0.111"/>
+                                            </LinearGradientBrush>
+                                        </Rectangle.Fill>
+                                    </Rectangle>
+                                    <StackPanel  Grid.Column="0">
+                                        <TextBlock Height="20"/>
+                                        <TextBlock Text="WAO" Foreground="Yellow" FontSize="23" Height="auto" Width="auto" />
+                                        <TextBlock Text="   SONG" Foreground="Yellow" FontSize="23" Height="auto" Width="auto" />
+                                    </StackPanel>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+
+</phone:PhoneApplicationPage>
