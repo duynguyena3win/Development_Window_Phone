@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Maze_Finding_Bean.Game1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAQEENAIoBAAA0oggAAAAAAAgICAgIgACgAGAUAYEIU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.My2DSprite" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCQIQAQABQCGEgTEgAMACGEAghAOAAggCQRAZAAIAgA=</HashCode>
+      <FileName>My2DSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.VisibleGameEntity" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAgAQAAAAIA=</HashCode>
+      <FileName>VisibleGameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.Terrain" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Terrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.Wall" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.Unit" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.MyAbstractModel">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MyAbstractModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.Menu" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Maze_Finding_Bean.Menu.MenuEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Menu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAIAAEgAAAAgAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.MenuItem" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.MenuNewGame" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuNewGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.InvisibleGameEntity">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvisibleGameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.Abstract_Camera">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAQBAAAAAAACAAAAAAAAAFAAAAAAAQAEAQAAA=</HashCode>
+      <FileName>Abstract_Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.Camera2D">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAIAAAAAAAAAAAAAAAAAAAQAABAIAAAAAAAA=</HashCode>
+      <FileName>Camera2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.AbstractPathUpdater">
+    <Position X="10.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractPathUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.PathUpdater2D">
+    <Position X="13.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PathUpdater2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.IdlePathUpdater">
+    <Position X="16.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>IdlePathUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.LinearPathUpdater">
+    <Position X="15" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAgCAAAAAAAAAAAAAAAAAAAAYAQAAAAAYAA=</HashCode>
+      <FileName>LinearPathUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.PathUpdater2DType1">
+    <Position X="11.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgABAAAAgCAAEAAAAAAAAAAAAAAAAAYAQAAAAAYAA=</HashCode>
+      <FileName>PathUpdater2DType1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.PathUpdater2DType2">
+    <Position X="17.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgACAAAAAAAABAAAAAAAAAAYARAIAAIYAA=</HashCode>
+      <FileName>PathUpdater2DType2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Finding_Bean.PathUpdater2DType3">
+    <Position X="9.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAABAAAAAAAAAAYAQAAAAAYQA=</HashCode>
+      <FileName>PathUpdater2DType3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
