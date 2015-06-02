@@ -1,0 +1,7 @@
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\Bin\Debug\GuardApp.Scheduled.dll
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\Bin\Debug\GuardApp.Scheduled.pdb
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\Bin\Debug\GaurdApp.Core.dll
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\Bin\Debug\GaurdApp.Core.pdb
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\obj\Debug\GuardApp.Scheduled.csprojResolveAssemblyReference.cache
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\obj\Debug\GuardApp.Scheduled.dll
+F:\CNTT\Develop for Window Phone\ProtectApps\GuardApp.Scheduled\obj\Debug\GuardApp.Scheduled.pdb
