@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="Naruto_Quiz.LoadQuestion"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="480" d:DesignWidth="480">
+    <UserControl.Resources>
+        <Storyboard x:Name="Storyboard_Ready" Completed="Storyboard_Ready_Completed">
+            <DoubleAnimation Storyboard.TargetName="Text_Ready"
+                        Storyboard.TargetProperty="Opacity"
+                        From="0.0" To="1.0" Duration="0:0:1"
+                        AutoReverse="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_1" Completed="Storyboard_1_Completed">
+            <DoubleAnimation Storyboard.TargetName="Text1"
+                        Storyboard.TargetProperty="Opacity"
+                        From="0.0" To="1.0" Duration="0:0:0.5"
+                        AutoReverse="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_2" Completed="Storyboard_2_Completed">
+            <DoubleAnimation Storyboard.TargetName="Text2"
+                        Storyboard.TargetProperty="Opacity"
+                        From="0.0" To="1.0" Duration="0:0:0.5"
+                        AutoReverse="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_3" Completed="Storyboard_3_Completed">
+            <DoubleAnimation Storyboard.TargetName="Text3"
+                        Storyboard.TargetProperty="Opacity"
+                        From="0.0" To="1.0" Duration="0:0:0.5"
+                        AutoReverse="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Storyboard_GO" Completed="Storyboard_GO_Completed">
+            <DoubleAnimation Storyboard.TargetName="TextGO"
+                        Storyboard.TargetProperty="Opacity"
+                        From="0.0" To="1.0" Duration="0:0:1"
+                        AutoReverse="True"/>
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <MediaElement Name="Player" AutoPlay="False" Volume="1" Source="Assets\SoundForApp\Ready.mp3"/>
+        <TextBlock Foreground="White" Name="Text_Ready" FontFamily="Assets/Fonts/Agency FB.ttf#Agency FB" VerticalAlignment="Center" HorizontalAlignment="Center" Text="READY" FontWeight="Bold" FontSize="200"/>
+        <TextBlock Foreground="White" Name="Text1" FontFamily="Assets/Fonts/Agency FB.ttf#Agency FB" VerticalAlignment="Center" HorizontalAlignment="Center" Text="1" FontSize="200" FontWeight="Bold" Opacity="0"/>
+        <TextBlock Foreground="White" Name="Text2" FontFamily="Assets/Fonts/Agency FB.ttf#Agency FB" VerticalAlignment="Center" HorizontalAlignment="Center" Text="2" FontSize="200" FontWeight="Bold" Opacity="0"/>
+        <TextBlock Foreground="White" Name="Text3" FontFamily="Assets/Fonts/Agency FB.ttf#Agency FB" VerticalAlignment="Center" HorizontalAlignment="Center" Text="3" FontSize="200" FontWeight="Bold" Opacity="0"/>
+        <TextBlock Foreground="White" Name="TextGO" FontFamily="Assets/Fonts/Agency FB.ttf#Agency FB" VerticalAlignment="Center" HorizontalAlignment="Center" Text="GO" FontSize="200" FontWeight="Bold" Opacity="0"/>
+    </Grid>
+</UserControl>

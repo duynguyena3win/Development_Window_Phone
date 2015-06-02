@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<NARUTO>
+	<QUESTION_IMAGE Hard="1" Question="Who is this?" Image="Assets\ImageForQuestion\Easy_Naruto.jpg" A="Sasuke" B="Naruto" C="Shikamaru" D="Neji" Answer="B"/>
+	<QUESTION_TEXT Hard="2" Question="Who is this?" Discreble="" A="" B="" C="" D="" Answer=""/>
+	<QUESTION_SOUND Hard="1" Question="What's name of this skill?" Sound="Assets\SoundForQuestion\Chidori.mp3" A="Thunder" B="Kamui" C="Rasengan" D="Chidori" Answer="C"/>
+  <QUESTION_TEXT Hard="2" Question="Who is this?" Discreble="" A="" B="" C="" D="" Answer="" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this?" Image="Assets\ImageForQuestion\Shisui.jpg" A="Madara" B="Shisui" C="Utaka" D="Nitsu" Answer="B" />
+  <QUESTION_IMAGE Hard="1" Question="Who is this? (Đây là ai)" Image="Assets\ImageForQuestion\Itachi.jpg" A="Sasuke" B="Obito" C="Itanka" D="Itachi" Answer="D" />
+  <QUESTION_IMAGE Hard="1" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\1202-2021006952.jpg" A="Sasuke" B="Menka" C="Shisui" D="Itachi" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Madara.jpg" A="Mikoto" B="Itachi" C="Obito" D="Madara" Answer="D" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\izuna.jpg" A="Kakashi" B="Fugara" C="Izuna" D="Madara" Answer="C" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Fugaku.jpg" A="Fugaku" B="Hagaku" C="Mizaku" D="Itachi" Answer="A" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Kagami.jpg" A="Obito" B="Madara" C="Kashi" D="Kagami" Answer="D" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\mikoto_uchiha.jpg" A="Mikoto" B="Mahiko" C="Yamato" D="Manzo" Answer="A" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai)" Image="Assets\ImageForQuestion\Yashiro_Uchiha.jpg" A="Yashiro" B="Yahiko" C="Uchima" D="Yakumi" Answer="A" />
+  <QUESTION_IMAGE Hard="5" Question="Who is this? (Đây là ai)" Image="Assets\ImageForQuestion\uchiha_yakumi_by_toroi_san-d5vsy3l.png" A="Yashiro" B="Takashi" C="Yakumi" D="Hinoko" Answer="C" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai)" Image="Assets\ImageForQuestion\66479.jpg" A="Kensaki" B="Inami" C="Izaki" D="Teyaki" Answer="D" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Uruchi_Uchiha.jpg" A="Uruchi" B="Washabi" C="Makiri" D="Shuti" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Tobi.png" A="Madara" B="Tobi" C="Matsu" D="Rui" Answer="B" />
+  <QUESTION_IMAGE Hard="1" Question="What's name clan of this symbol? (Đây là biểu tượng của tộc nào)" Image="Assets\ImageForQuestion\Clan uchiha_sharingan.jpg" A="Senju" B="Uzumaki" C="Uchiha" D="Mount Myōboku" Answer="C" />
+  <QUESTION_IMAGE Hard="1" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\hashirama.jpg" A="Hashirama" B="Hashimara" C="Hisarima" D="Hishamira" Answer="A" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai)" Image="Assets\ImageForQuestion\mito_uzumaki.jpg" A="Minato Uzumaki" B="Hashirama" C="Mito Uzumaki" D="Nagashito" Answer="C" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Toka Senju1.jpg" A="Toka Senju" B="Mika Senju" C="Uchi Senju" D="Hakura" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Tsunade.full.254517.jpg" A="Mizukage" B="Tsunade" C="Sakura" D="Shino" Answer="B" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="" A="Tobirama" B="Hashirama" C="Hiruzen" D="Danzo" Answer="A" />
+  <QUESTION_IMAGE Hard="3" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\Kyuubi_by_raitora.jpg" A="Saiken" B="Kurama" C="Shukaku" D="Gyūki" Answer="B" />
+  <QUESTION_IMAGE Hard="3" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\Gyuki.jpg" A="Kurama" B="Gyuki" C="Saiken" D="Kokuo" Answer="B" />
+  <QUESTION_IMAGE Hard="4" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\Seven-Tails_&amp;_Fuu.jpg" A="Chomei" B="Kurama" C="Gyuki" D="Isobu" Answer="A" />
+  <QUESTION_IMAGE Hard="4" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\saiken1.jpg" A="Son Gokū" B="Saiken" C="Chōmei" D="Isobu" Answer="B" />
+  <QUESTION_IMAGE Hard="4" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\kokuou__five_tails.jpg" A="Isobu" B="Saimen" C="Kokuo" D="Saiken" Answer="C" />
+  <QUESTION_IMAGE Hard="4" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\son_goku.jpg" A="Matatabi" B="Saiken" C="Kokuou" D="Son Guku" Answer="D" />
+  <QUESTION_IMAGE Hard="4" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\matatabi.jpg" A="Matatabi" B="Son Guko" C="Shukaku" D="Saiken" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\shukaku.jpg" A="Saiken" B="Shukaku" C="Kurama" D="Son Guku" Answer="B" />
+  <QUESTION_IMAGE Hard="3" Question="Name of this Jinchūriki is . . . (Tên của vĩ thú này là . . . )" Image="Assets\ImageForQuestion\Sanbi-Isonade.jpg" A="Saiken" B="Isobu" C="Matatabi" D="Shukaku" Answer="B" />
+  <QUESTION_IMAGE Hard="4" Question="What is this? (Đây là gì?)" Image="Assets\ImageForQuestion\15178_Gedo_Mazo_by_Mush17.jpg" A="Monster Stone" B="Rock Hunter" C="Gedo Mazo" D="Ten Tails" Answer="C" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Yahiko.jpg" A="Nagato" B="Pain" C="Yahiko" D="Minato" Answer="C" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Nagato.jpg" A="Pain" B="Yahiko" C="Nagato" D="Minato" Answer="C" />
+  <QUESTION_IMAGE Hard="2" Question="Symbol of ... (Kí hiệu của ...)" Image="Assets\ImageForQuestion\Akatsuki.jpg" A="Konoha" B="Uchiha" C="Kami" D="Akatsuki" Answer="D" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Zetsu_full.jpg" A="Zetsu" B="Itachi" C="Obito" D="Kisame" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Orochimaru.jpg" A="Orochimaru" B="Hidan" C="Deidera" D="Zetsu" Answer="A" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Kisame.jpg" A="Hidan" B="Kisame" C="Itachi" D="Kakashi" Answer="B" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Konan.jpg" A="Konan" B="Yahiko" C="Komoro" D="Katsu" Answer="A" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\deidara.jpg" A="Hidan" B="Deidara" C="Minato" D="Yahiko" Answer="B" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\183.jpg" A="Orochimaru" B="Hidan" C="Zaku" D="Sasori" Answer="D" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\hidan.jpg" A="Sasori" B="Kisame" C="Hidan" D="Kakuza" Answer="C" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this?(Đây là ai?)" Image="Assets\ImageForQuestion\kakuzu-githu-loh.jpg" A="Kakuzu" B="Hidan" C="Tobi" D="Pain" Answer="B" />
+  <QUESTION_IMAGE Hard="4" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Kyusuke.png" A="Shino" B="Obito" C="Kamashi" D="Kyusuke" Answer="D" />
+  <QUESTION_IMAGE Hard="1" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Mizuki.jpg" A="Mizuki" B="Manzuki" C="Miziki" D="Hizuken" Answer="A" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Guren.jpg" A="Yahiko" B="Miyaki" C="Guren" D="Hiziun" Answer="C" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\2305376-karin_unsg.jpg" A="Kimimaro" B="Shino" C="Sakura" D="Karin" Answer="D" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai)" Image="Assets\ImageForQuestion\Anko.jpg" A="Anko" B="Xeko" C="Miko" D="Mikazu" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\sakon_and_ukon.jpg" A="Mizuki" B="Sakon &amp; Ukon" C="Jogo" D="Suigetsu" Answer="B" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\kimimaro.jpg" A="Guren" B="Mizuki" C="Jirobo" D="Kimimaro" Answer="D" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\kidomaru.jpg" A="Kimimaro" B="Kidomaru" C="Jorobo" D="Tayuya" Answer="B" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Jugo.jpg" A="Jugo" B="Jirobo" C="Taka" D="Suigetsu" Answer="A" />
+  <QUESTION_IMAGE Hard="2" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\Jirobo.jpg" A="Jirobo" B="Jogo" C="Tayuya" D="Kidomaru" Answer="A" />
+  <QUESTION_IMAGE Hard="3" Question="What's name of this team? (Đội này tên gì?)" Image="Assets\ImageForQuestion\Team-Taka.jpg" A="Team 7" B="Tako" C="Taka" D="Toka" Answer="C" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\tayuya.jpg" A="Suigetsu" B="Gerun" C="Tayuya" D="Jirobo" Answer="C" />
+  <QUESTION_IMAGE Hard="3" Question="Who is this? (Đây là ai?)" Image="Assets\ImageForQuestion\suigetsu.jpg" A="Suigetsu" B="Jugo" C="Sasuke" D="Karin" Answer="A" />
+</NARUTO>
