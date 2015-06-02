@@ -1,0 +1,44 @@
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\AppboyUI.Phone.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\AppboyUI.Phone.pdb
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\AppboyPlatform.PCL.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\AppboyPlatform.Phone.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\Lex.Db.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\Lex.Db.xml
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.xml
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.csprojResolveAssemblyReference.cache
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\Controls\Feed.g.cs
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\Controls\Feedback.g.cs
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\Controls\Slideup.g.cs
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\Controls\StarRating.g.cs
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.g.resources
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.dll
+C:\Users\Duy Nguyen\Desktop\appboy-windows-phone-ui-master\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.pdb
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\AppboyUI.Phone.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\AppboyUI.Phone.pdb
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\AppboyPlatform.PCL.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\AppboyPlatform.Phone.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\Lex.Db.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\Newtonsoft.Json.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Extensions.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Primitives.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\Lex.Db.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\Newtonsoft.Json.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Extensions.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\Bin\Debug\System.Net.Http.Primitives.xml
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.csprojResolveAssemblyReference.cache
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\Controls\Feed.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\Controls\Feedback.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\Controls\Slideup.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\Controls\StarRating.g.cs
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.g.resources
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.dll
+F:\Cong Nghe Thong Tin\Develop for Window Phone\News\appboy-windows-phone-ui-master\obj\Debug\AppboyUI.Phone.pdb
