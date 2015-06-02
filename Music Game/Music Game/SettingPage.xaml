@@ -1,0 +1,58 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Music_Game.SettingPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid>
+        <Grid Name="HScoreGrid">
+            <Grid.Background>
+                <ImageBrush ImageSource="Assets\BG_Images\BG_Setting.jpg"/>
+            </Grid.Background>
+            <MediaElement Source="Assets\Sound\BG_Setting.mp3" AutoPlay="True" Name="BG_Player" MediaEnded="BG_Player_MediaEnded" Volume="1" Visibility="Visible"/>
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+				<RowDefinition Height="1*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3.5*"/>
+                <ColumnDefinition Width="6.5*"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Row="1" Grid.ColumnSpan="2" Source="Assets\TextImages\SettingText.png"/>
+            <TextBlock x:Name="textBlock" Grid.Row="3" Text="Sound" FontFamily="Assets/Fonts/From Cartoon Blocks.ttf#From Cartoon Blocks" FontSize="55" VerticalAlignment="Center" Margin="20,0,0,0" Foreground="#FFAE2222" FontWeight="Bold"/>
+            <Slider Name="Slider_Sound" Grid.Row="3" Grid.Column="1" Width="300" VerticalAlignment="Center" Style="{StaticResource SliderStyle_Style1}" ValueChanged="Slider_Sound_ValueChanged" Maximum="10"/>
+
+            <TextBlock Grid.Row="4" Text="Level" FontWeight="Bold" FontFamily="{Binding FontFamily, ElementName=textBlock}" FontSize="{Binding FontSize, ElementName=textBlock}" Margin="{Binding Margin, ElementName=textBlock}" Foreground="{Binding Foreground, ElementName=textBlock}"/>
+            <Slider Name="Slider_Level" Grid.Row="4" Grid.Column="1" Width="300" VerticalAlignment="Center" Style="{StaticResource SliderStyle_Style1}" ValueChanged="Slider_Level_ValueChanged"  Maximum="10"/>
+
+            <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Orientation="Horizontal">
+                <TextBlock Grid.Row="5" Grid.ColumnSpan="2" Text="Background Sound" FontWeight="Bold" FontFamily="{Binding FontFamily, ElementName=textBlock}" FontSize="50" Margin="{Binding Margin, ElementName=textBlock}" Foreground="{Binding Foreground, ElementName=textBlock}"/>    
+                <CheckBox Name="Btn_Checked" Checked="CheckBox_Checked" Margin="10,5,0,0" Unchecked="CheckBox_Unchecked" BorderBrush="Red" BorderThickness="3" IsChecked="True" Style="{StaticResource CheckBox_OnlyCheck}"/>
+            </StackPanel>
+            
+        </Grid>
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar>
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/back.png" Text="back" Click="ApplicationBarIconButton_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

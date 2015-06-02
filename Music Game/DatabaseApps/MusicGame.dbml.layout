@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MusicGame">
+  <DataContextMoniker Name="/MusicGameDataContext" />
+  <nestedChildShapes>
+    <classShape Id="445ac3d4-8d54-4815-b820-80a09c2f14b2" absoluteBounds="2.125, 3.75, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/MusicGameDataContext/MG_Question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb3f22d0-8abc-45fb-a6d2-3226f413898c" absoluteBounds="2.14, 4.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e844c80a-62a4-48d1-aab5-f5d5e5340475" absoluteBounds="0.75, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MusicGameDataContext/MG_Artist" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8d556f8a-4269-4144-a778-e566821717b2" absoluteBounds="0.76500000000000012, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9890058d-7713-4cdc-866e-8bde9fae1ab8" absoluteBounds="3.25, 1.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MusicGameDataContext/MG_Song" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f19696c-dcc7-477c-9ab3-a212287fcff5" absoluteBounds="3.265, 2.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.13064697265625); (3.25 : 2.13064697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MusicGameDataContext/MG_Artist/MG_Artist_MG_Song" />
+      <nodes>
+        <classShapeMoniker Id="e844c80a-62a4-48d1-aab5-f5d5e5340475" />
+        <classShapeMoniker Id="9890058d-7713-4cdc-866e-8bde9fae1ab8" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

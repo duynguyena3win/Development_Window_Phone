@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="Music_Game.MUserControl.UC_Register"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="680" d:DesignWidth="480">
+    
+    <Grid x:Name="LayoutRoot" Margin="30,0,30,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/BG_Images/BG_Facebook.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1.3*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Name="Text_Info" FontSize="28" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontStyle="Italic" Foreground="#FFF75858"
+                   FontFamily="Assets/Fonts/UTM Facebook.ttf#UTM Facebook"/>
+        <toolkit:PhoneTextBox Grid.Row="1" FontSize="30"
+                              Name="Edit_UName"
+                              Hint="User Name" Style="{StaticResource PhoneTextBox_Style1}"
+                              FontFamily="Assets/Fonts/UTM Facebook.ttf#UTM Facebook" TextChanged="Edit_UName_TextChanged"/>
+        
+        <toolkit:PhoneTextBox Grid.Row="2"  FontSize="30"
+                              Name="Edit_Name"
+                              Hint="Name" Style="{StaticResource PhoneTextBox_Style1}"
+                              FontFamily="Assets/Fonts/UTM Facebook.ttf#UTM Facebook" InputScope="Password" TextChanged="Edit_Name_TextChanged"/>
+        
+        <toolkit:PhoneTextBox Grid.Row="3"  FontSize="30"
+                              Name="Edit_Password"
+                              Hint="Password" Style="{StaticResource PhoneTextBox_Style1}"
+                              FontFamily="Assets/Fonts/UTM Facebook.ttf#UTM Facebook" InputScope="Password" TextChanged="Edit_Password_TextChanged"/>
+
+        <toolkit:PhoneTextBox Grid.Row="4"  FontSize="30"
+                              Name="Edit_CPassword"
+                              Hint="Confirm Password" Style="{StaticResource PhoneTextBox_Style1}"
+                              FontFamily="Assets/Fonts/UTM Facebook.ttf#UTM Facebook" InputScope="Password" TextChanged="Edit_CPassword_TextChanged"/>
+        
+        <Button Style="{StaticResource ButtonStyle_Style3}" Grid.Row="5" Grid.RowSpan="2" Width="300"
+                Name="Btn_Register"
+                IsEnabled="False" Click="Button_Click"
+                Content="Register" FontSize="38" VerticalAlignment="Center"
+                FontFamily="Assets/Fonts/UTM Facebook.ttf#UTM Facebook" />
+    </Grid>
+</UserControl>

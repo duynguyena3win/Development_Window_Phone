@@ -1,0 +1,82 @@
+WebClient WClient_Download;
+        public async void TestDropbox()
+        {
+            WClient_Download = new WebClient();
+            WClient_Download.OpenReadCompleted += WClient_Download_OpenReadCompleted;
+            string streamUrl = await SoundCloudMusicService.LaunchTrack("https://soundcloud.com/duynguyena3win/mot-nha");
+            //myPlayer.Source = new Uri(streamUrl, UriKind.Absolute);
+            WClient_Download.OpenReadAsync(new Uri(streamUrl));
+        }
+
+        private bool IsSpaceIsAvailable(long spaceReq)
+        {
+            using (var store = IsolatedStorageFile.GetUserStoreForApplication())
+            {
+
+                long spaceAvail = store.AvailableFreeSpace;
+                if (spaceReq > spaceAvail)
+                {
+                    return false;
+                }
+                return true;
+            }
+        }
+
+        void WClient_Download_OpenReadCompleted(object sender, OpenReadCompletedEventArgs e1)
+        {
+            string Path;
+            if (e1.Error == null)
+            {
+                try
+                {
+                    string filename = "MyFile545.mp3";
+                    bool isSpaceAvailable = IsSpaceIsAvailable(e1.Result.Length);
+
+                    if (isSpaceAvailable)
+                    {
+                        // Save mp3 to Isolated Storage
+                        try
+                        {
+                            using (var isfs = new IsolatedStorageFileStream(filename,
+                                                FileMode.CreateNew,
+                                                IsolatedStorageFile.GetUserStoreForApplication()))
+                            {
+
+                                long fileLen = 100 * 1024;
+                                byte[] b = new byte[fileLen];
+                                e1.Result.Position = 300 * 1024;
+                                e1.Result.Read(b, 0, b.Length);
+                                isfs.Write(b, 0, b.Length);
+                                isfs.Flush();
+                                Path = isfs.Name;
+
+                                //var client = new DropNetClient("8o22eryy1qg3m1z", "2timqmgbvjg1qjj");
+                                //var uploaded =  client.UploadFileTask("/", "music.mp3", b);
+                                
+                            }
+                            
+                            //myPlayer.Source = new Uri(Path, UriKind.Relative);
+
+                        }
+                        catch (Exception ex) { }
+                        
+                    }
+                    else
+                    {
+                        MessageBox.Show("Not enough to save space available to download mp3.");
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+            else
+            {
+                MessageBox.Show(e1.Error.Message);
+            }
+        }
+        void LoadFile()
+        {
+        }

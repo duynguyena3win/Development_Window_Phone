@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MusicGame_db" Class="MusicGameDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=na9p8fwauu.database.windows.net;Initial Catalog=MusicGame_db;User ID=duynguyena3win" SettingsObjectName="DatabaseApps.Properties.Settings" SettingsPropertyName="MusicGame_dbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MG_Question" Member="MG_Questions">
+    <Type Name="MG_Question">
+      <Column Name="IdQuestion" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Source" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TextQuestion" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Description" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="A" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="B" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="C" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="D" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Answer" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Genre" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MG_Artist" Member="MG_Artists">
+    <Type Name="MG_Artist">
+      <Column Name="IdArtist" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NameArtist" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nation" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="MG_Artist_MG_Song" Member="MG_Songs" ThisKey="IdArtist" OtherKey="IdArtist" Type="MG_Song" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MG_Song" Member="MG_Songs">
+    <Type Name="MG_Song">
+      <Column Name="IdSong" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdArtist" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NameSong" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Genre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="MG_Artist_MG_Song" Member="MG_Artist" ThisKey="IdArtist" OtherKey="IdArtist" Type="MG_Artist" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

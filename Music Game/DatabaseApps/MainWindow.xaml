@@ -1,0 +1,54 @@
+﻿<Window x:Class="DatabaseApps.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MyDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Data For Music Game" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
+        <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1">
+            <TextBlock Text="URL" FontSize="20"/>
+            <TextBox Name="Edit_URL" FontSize="20" Width="300" Margin="10,0,0,0"/>
+            <Button Margin="5,0,5,0" Content="Import Data" Click="Button_Click"/>
+        </WrapPanel>
+        <StackPanel Grid.Row="2" Margin="30,0,30,0">
+            <TextBlock Name="Text_NameSong" FontSize="20" Text="Name Song: "/>
+            <TextBlock Name="Text_NameArtist" FontSize="20" Text="Name Artist: "/>
+
+        </StackPanel>
+        <WrapPanel Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Slider PreviewMouseLeftButtonDown="Slider_Time_PreviewMouseLeftButtonDown"  PreviewMouseLeftButtonUp="Slider_Time_PreviewMouseLeftButtonUp"  x:Name="Slider_Time" Style="{StaticResource MySlider}" Width="250" Value="{Binding ElementName=play_music, Path=Position}"/>
+            <MediaElement LoadedBehavior="Manual" Loaded="Player_Loaded" Name="Player" IsEnabled="False" Volume="1" />
+            <Button Content="Get Begin" Margin="30,0,0,0" FontSize="20" Click="Button_Click_1"/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <CheckBox Name="Check_Artist" IsChecked="True" Content="Artist Ques" FontSize="20" Margin="0,0,20,0"/>
+            <CheckBox Name="Check_Song" IsChecked="True" Content="Song Ques" FontSize="20" Margin="20,0,20,0"/>
+            <!--CheckBox Content="Genre Ques" FontSize="20" Margin="20,0,0,0"/-->
+        </WrapPanel>
+        <WrapPanel Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Right">
+            <Button Name="Btn_Import" IsEnabled="False" Content="Import" Width="150" FontSize="20" Margin="20,0,20,0" Click="Button_Click_3"/>
+            <Button Content="Remove" Width="150" FontSize="20" Margin="20,0,20,0" Click="Button_Click_2"/>
+        </WrapPanel>
+        <ComboBox Name="ComboBox" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="5" VerticalAlignment="Top" Width="122" Height="27" SelectedIndex="1">
+            <ComboBoxItem Content="Vietnam"/>
+            <ComboBoxItem Content="Korea"/>
+            <ComboBoxItem Content="USUK"/>
+        </ComboBox>
+        <Button Content="Update Artist" HorizontalAlignment="Left" Margin="10,17,0,0" Grid.Row="4" VerticalAlignment="Top" Width="75" Click="Button_Click_4"/>
+    </Grid>
+</Window>

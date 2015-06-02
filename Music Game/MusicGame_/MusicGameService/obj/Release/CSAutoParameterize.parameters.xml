@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MS_TableConnectionString-Web.config Connection String" description="MS_TableConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-MusicGameService-20141129044406.mdf;Initial Catalog=aspnet-MusicGameService-20141129044406;Integrated Security=True;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\CNTT\\Develop\ for\ Window\ Phone\\Music\ Game\\MusicGame_\\MusicGameService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MS_NotificationHubConnectionString-Web.config Connection String" description="MS_NotificationHubConnectionString Connection String used in web.config by the application to access the database." defaultValue="Endpoint=sb://musicgamehub-ns.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=14lnudAMuekVhq+Q25JefdL8C4U6xyGD0FCUe9E2tIQ=" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\CNTT\\Develop\ for\ Window\ Phone\\Music\ Game\\MusicGame_\\MusicGameService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_NotificationHubConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MusicGame_dbConnectionString-Web.config Connection String" description="MusicGame_dbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=na9p8fwauu.database.windows.net;Initial Catalog=MusicGame_db;User ID=duynguyena3win;Password=Thilanh1@" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\CNTT\\Develop\ for\ Window\ Phone\\Music\ Game\\MusicGame_\\MusicGameService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MusicGame_dbConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MG-Web.config Connection String" description="MG Connection String used in web.config by the application to access the database." defaultValue="data source=na9p8fwauu.database.windows.net;initial catalog=MusicGame_db;user id=duynguyena3win;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\CNTT\\Develop\ for\ Window\ Phone\\Music\ Game\\MusicGame_\\MusicGameService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MG']/@connectionString" />
+  </parameter>
+  <parameter name="MusicGame_dbConnectionString1-Web.config Connection String" description="MusicGame_dbConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=na9p8fwauu.database.windows.net;Initial Catalog=MusicGame_db;User ID=duynguyena3win;Password=Thilanh1@;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\CNTT\\Develop\ for\ Window\ Phone\\Music\ Game\\MusicGame_\\MusicGameService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MusicGame_dbConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>
