@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppboyConfig>
+  <!-- Debug APIKey -->
+  <ApiKey>8283f6c3-41e4-46f0-b3e5-3cfb181c9690</ApiKey>
+  <PushChannelName>OnePieceChanel</PushChannelName>
+  <PushServiceName>DuyNguyenApps</PushServiceName>
+</AppboyConfig>
