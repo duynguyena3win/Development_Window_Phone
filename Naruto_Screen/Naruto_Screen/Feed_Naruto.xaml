@@ -1,0 +1,60 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Naruto_Screen.Feed_Naruto"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+        <system:String x:Key="AppBarFeedback">Feedback</system:String>
+        <system:String x:Key="AppBarNewsFeed">News Feed</system:String>
+        <system:String x:Key="AppBarProfile">Profile</system:String>
+        <system:String x:Key="AppBarMisc">Misc</system:String>
+        <system:String x:Key="AppBarSettings">Settings</system:String>
+        <system:String x:Key="AppBarSlideups">Slideups</system:String>
+
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Resources>
+            <Storyboard x:Name="Storyboard_Visible">
+                <DoubleAnimation Storyboard.TargetName="LayoutRoot"
+                        Storyboard.TargetProperty="Opacity"
+                        From="0.0" To="1.0" Duration="0:0:3"
+                        AutoReverse="False"/>
+            </Storyboard>
+            <Storyboard x:Name="Storyboard_Hide">
+                <DoubleAnimation Storyboard.TargetName="LayoutRoot"
+                        Storyboard.TargetProperty="Opacity"
+                        From="1.0" To="0.0" Duration="0:0:3"
+                        AutoReverse="False"/>
+            </Storyboard>
+        </Grid.Resources>
+        <Grid.Background>
+            <ImageBrush ImageSource="{Binding Source_Image}"/>
+        </Grid.Background>
+
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="\Assets\Icons\feed.png" Text="{StaticResource AppBarNewsFeed}" Click="Feed_Click"/>
+            <shell:ApplicationBarIconButton IconUri="\Assets\Icons\feedback.png" Text="{StaticResource AppBarFeedback}" Click="Feedback_Click"/>
+            <shell:ApplicationBarIconButton IconUri="\Assets\Icons\profile.png" Text="info" Click="Profile_Click"/>
+            <shell:ApplicationBarIconButton IconUri="\Assets\Icons\misc.png" Text="{StaticResource AppBarMisc}" Click="Misc_Click"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="{StaticResource AppBarSettings}" Click="Settings_Click"/>
+                <shell:ApplicationBarMenuItem Text="{StaticResource AppBarSlideups}" Click="Slideups_Click"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
